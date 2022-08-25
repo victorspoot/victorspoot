@@ -19,5 +19,5 @@ Olá, eu sou Victor Henrique Pedro de Sá
 
 - Twitter @vhps1590
 - Instagram @v_h_p_s
-- Linkedin Victor Sá 
+- Linkedin https://www.linkedin.com/in/victor-s%C3%A1-15164722b/ 
 - E-mail victorhps.contato@gmail.com
