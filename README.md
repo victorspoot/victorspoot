@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil!
 
-Olá, eu sou Victor Henrique Pedro de Sá
+Olá, meu nome é Victor Henrique Pedro de Sá
 
 ## Meus Hobbies
 
